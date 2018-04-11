@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	font-family: "Arsenal Regular",sans-serif;
+	font-size: 20px;
+	padding: 0px;
+	line-height: 2;
+}
+
+#section-a{
+	padding: 20px;
+	background:#295D9B;
+	color: white;
+	text-align: center;
+}
+
+#section-b{
+	padding: 20px;
+	background:#DCDCDC;
+	color: black;
+	text-align: center;
+}
+
+#section-c{
+	display: flex;
+	
+	
+	
+}
+
+#section-c div{
+	padding: 200px 200px;
+}
+
+
+
+#section-c .box-1, #section-c .box-3{
+	background: #295D9B;
+	color: white;
+}
+
+#section-c .box-2{
+	background: #f9f9f9;
+	color: #295D9B;
+}
+
+#section-c .box-1{
+	background-image:url("Photos/IMG_E0488.JPG");
+	background-size: cover;
+	width: 33%;
+	height: 250px;
+	
+	
+}
+
+#section-c .box-2{
+	background-image:url("Photos/IMG_E0495.JPG");
+	width: 33%;
+	height: 250px;
+
+}
+
+#section-c .box-3{
+	background-image:url("../Pictures used in website/IMG_E0500.JPG");
+	background-size: cover;
+	width: 33%;
+	height: 250px;
+}
+
+
+/*------- Footer ------------*/
+
+ footer {
+	width: 100%;
+	background-color: #222;
+	padding: 60px 0px;
+	list-style: none;
+	 text-decoration: none;
+	 
+}
+
+li a{
+	text-decoration: none;
+}
