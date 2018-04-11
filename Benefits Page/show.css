@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	margin: 0;
+	font-family: 'Arsenal Regular',sans-serif;
+	font-size: 20px;
+	line-height: 2;
+	
+}
+
+main {
+	width: 680px;
+	overflow: hidden;
+	float: left;
+	min-height: 700px;
+}
+
+sidebar { 
+	width: 260px;
+	float: left;
+	overflow: hidden;
+	min-height: 700px;
+}
+p{
+	padding: 100px;
+	align-content: center;
+
+}
+h1{
+	padding: 50px;
+}
+
+footer {
+	width: 100%;
+	background-color: #222;
+	padding: 60px 0px;
+	list-style: none;
+}
+
+li a{
+	text-decoration: none;
+}
