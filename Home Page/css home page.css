@@ -1,0 +1,199 @@
+
+body{
+	margin: 0px;
+	font-family: 'Arsenal Regular',sans-serif;
+	font-size: 20px;
+	line-height: 2;
+	padding: 0px;
+	text-decoration: none;
+}
+
+h1 {
+	color: #FFFFFF;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+#showcase{
+	background-image:url("actual logo THE REAL LOGO.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	
+	
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding: 0 20px;
+	
+}
+#showcase h1{
+	font-size: 50px;
+}
+
+#showcase p{
+	font-size: 20px;
+	color: white; 
+	padding: 300px 50px;
+}
+
+
+#showcase .button{
+
+    border:#FFFFFF 1px solid;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 10px;
+	margin: 20px;
+	
+	
+}
+#showcase .button:hover{
+	background:#FFFFFF;
+	color: #000000;
+	
+	
+	
+}
+#section-a{
+	padding: 20px;
+	background:#295D9B;
+	color: white;
+	text-align: center;
+}
+
+#section-b{
+	padding: 20px;
+	background:#DCDCDC;
+	color: #295D9B;
+	text-align: center;
+}
+
+#section-c{
+	display: flex;
+	text-align: center;
+	overflow: hidden;
+	list-style: none;
+	font-size: 40px;
+	color: black;
+	text-decoration: none;
+}
+
+#section-d {
+	display: flex;
+	text-align: center;
+	overflow: hidden;
+	list-style: none;
+	font-size: 40px;
+	color: black;
+	text-decoration: none;
+}
+
+#section-e {
+	display: flex;
+	text-align: center;
+	overflow: hidden;
+	list-style: none;
+	font-size: 40px;
+	color: black;
+	text-decoration: none;
+}
+
+#section-c div{
+	padding: 200px 200px;
+
+}
+
+#section-d div{
+	padding: 200px 200px;
+}
+
+#section-e div{
+	padding: 200px 200px;
+}
+
+#section-c .box-1, #section-c .box-3{
+	background: #f9f9f9;
+	color: #295D9B;
+	text-decoration: none;
+}
+
+#section-c .box-2{
+	background: #f9f9f9;
+	color: #295D9B;
+}
+
+#section-d .box-4, #section-d .box-5, #section-d .box-6{
+	background: #f9f9f9;
+	color: #295D9B;
+}
+
+#section-e .box-7, #section-e .box-8{
+	background:#f9f9f9;
+	color:#295D9B ;
+}
+#section-c .box-1{
+	background-image:url("../Pictures used in website/cloud 6.jpg");
+	background-size: cover;
+	width: 33%;
+	
+	
+}
+
+#section-c .box-2{
+	background-image:url("../Pictures used in website/cloud buildings.jpg");
+	background-size: cover;
+	width: 33%;
+	height: 90%;
+}
+
+#section-c .box-3{
+	background-image:url("../Pictures used in website/random clouds.jpg");
+	background-size: cover;
+	width:33%;
+}
+
+#section-d .box-4{
+	background-image: url("../Pictures used in website/Pictures for Title Page Background/Cloud Computing.jpg");
+	background-size: cover;
+	width: 33%;
+}
+
+#section-d .box-5{
+	background-image: url("../Pictures used in website/Pictures for Title Page Background/Cloud Computing Blue.jpg");
+	background-size: cover;
+	width: 33%;
+}
+
+#section-d .box-6{
+	background-image: url("../Pictures used in website/Pictures for Title Page Background/Virtual Reality Picture.jpg");
+	background-size: cover;
+	width: 33%;
+}
+
+#section-e .box-7{
+	background-image: url("../Pictures used in website/Pictures for Title Page Background/Background for Title Page.jfif");
+	background-size: cover;
+	width: 50%;
+}
+
+#section-e .box-8{
+	background-image: url("../Pictures used in website/IMG_E0493.JPG");
+	background-size: cover;
+	width: 50%;
+}
+/*------- Footer ------------*/
+
+ footer {
+	width: 100%;
+	background-color: #222;
+	padding: 60px 0px;
+	list-style: none;
+}
