@@ -197,3 +197,7 @@ li a{
 	padding: 60px 0px;
 	list-style: none;
 }
+li a{
+	text-decoration: none;
+	color: white;
+}
