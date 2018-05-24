@@ -4,7 +4,8 @@ h1{
 body {	
 	width: 600px;
 	overflow:hidden;
-	margin: 0 auto;
+	margin-right: 100px;
+	margin-left:100px;
 }
 
 header {
