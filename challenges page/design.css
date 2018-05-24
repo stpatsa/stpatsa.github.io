@@ -2,7 +2,7 @@ h1{
 	padding: 70px;
 }
 body {	
-	width: 600px;
+	width: 400px;
 	overflow:hidden;
 	margin-right: 100px;
 	margin-left:100px;
@@ -23,7 +23,7 @@ nav {
 }
 
 main {
-	width: 680px;
+	width: 400px;
 	overflow: hidden;
 	float: left;
 	min-height: 700px;
