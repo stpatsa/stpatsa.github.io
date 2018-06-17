@@ -1,4 +1,15 @@
-
+@media screen and (max-width : 760px){
+	ul{
+		position:static;
+		display:none;
+	}
+	li{
+		margin-bottom: 1px;
+	}
+	ul li, li a{
+		width:100%;
+	}
+}
 
 navbar {
 		overflow: hidden;
@@ -22,6 +33,7 @@ ul{
 	margin: 0px;
 	padding: 0px;
 	list-style: none;
+	position:absolute;
 }
 ul li{
 	float: left;
