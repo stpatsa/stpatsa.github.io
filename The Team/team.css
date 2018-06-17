@@ -9,12 +9,7 @@ body {
 	line-height: 2;
 }
 
-#section-a{
-	padding: 20px;
-	background:#295D9B;
-	color: black;
-	text-align: center;
-}
+/*------Meet the Team------*/
 
 #section-b{
 	padding: 20px;
@@ -23,6 +18,8 @@ body {
 	text-align: center;
 }
 
+/*------Bios------*/
+
 #section-c{
 	display: flex;
 	text-align: center;
@@ -30,11 +27,14 @@ body {
 	
 }
 
+/*-----Contains all the boxes inside------*/
+
 #section-c div{
 	padding: 200px 200px;
 }
 
 
+/*------Boxes color scheme-----*/
 
 #section-c .box-1, #section-c .box-3{
 	background: #295D9B;
@@ -45,6 +45,8 @@ body {
 	background: #f9f9f9;
 	color: #295D9B;
 }
+
+/*----The actual photos and sizing of them------*/
 
 #section-c .box-1{
 	background-image:url("../Pictures used in website/HANNAH-TEAMPROFILE.jpg");
@@ -69,7 +71,6 @@ body {
 	width: 33%;
 	height: 250px;
 }
-
 
 /*------- Footer ------------*/
 
