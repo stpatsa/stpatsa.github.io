@@ -21,9 +21,9 @@ body {
 /*------Bios------*/
 
 #section-c{
-	display: flex;
-	text-align: center;
-	
+	display: fixed;
+	text-align: left;
+	top-margin:500px;
 	
 }
 
