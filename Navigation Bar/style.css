@@ -13,10 +13,12 @@
 
 navbar {
 		overflow: hidden;
-		position: relative;
+		position: fixed;
 		top: 0;
 		left: 0;
 		right: 0;
+	width: 100%;
+	padding: 0px;
 		
 		
 }
@@ -33,11 +35,10 @@ ul{
 	margin: 0px;
 	padding: 0px;
 	list-style: none;
-	position:absolute;
 }
 ul li{
 	float: left;
-	width: 211.3px;
+	width: 209.5px;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
