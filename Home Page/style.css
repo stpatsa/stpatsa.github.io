@@ -12,10 +12,10 @@ ul{
 }
 ul li{
 	float: left;
-	width: 220px;
+	width: 209.5px;
 	height: 40px;
 	background-color: black;
-	opacity: .8;
+	opacity: .5;
 	line-height: 40px;
 	text-align: center;
 	font-size: 20px;
@@ -27,7 +27,7 @@ ul li ul li{
 	width: 300px;
 	height: 40px;
 	background-color: black;
-	opacity: .8;
+	opacity: .6;
 	line-height: 40px;
 	text-align: left;
 	font-size: 20px;
