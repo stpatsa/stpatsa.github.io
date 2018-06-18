@@ -21,8 +21,7 @@ body {
 /*------Bios------*/
 
 #section-c{
-	display: relative;
-	text-align: center;
+	display: flex;
 	
 }
 
@@ -38,13 +37,13 @@ body {
 #section-c .box-1, #section-c .box-3{
 	background: #295D9B;
 	color: black;
-	font-size:20px;
+	
 }
 
 #section-c .box-2{
 	background: #f9f9f9;
 	color: black;
-	font-size: 20px;
+	
 }
 
 /*----The actual photos and sizing of them------*/
