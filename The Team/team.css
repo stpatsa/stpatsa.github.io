@@ -83,7 +83,7 @@ body {
 	text-align: center;
 	overflow: hidden;
 	list-style: none;
-	font-size: 40px;
+	font-size: 20px;
 	color: black;
 	text-decoration: none;
 }
@@ -96,6 +96,7 @@ body {
 #section-d .box-4, #section-d .box-5, #section-d .box-6{
 	background: #f9f9f9;
 	color: #295D9B;
+	text-color:black;
 }
 
 #section-d .box-4{
