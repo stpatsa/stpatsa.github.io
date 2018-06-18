@@ -55,7 +55,6 @@ ul li a{
 
 ul li a:hover{
 	background-color: cadetblue;
-	transition: background 0.25a;
 }
 
 ul li ul li{
