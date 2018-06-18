@@ -79,7 +79,7 @@ body {
 }
 
 #section-d {
-	display: flex;
+	display: relative;
 	text-align: center;
 	overflow: hidden;
 	list-style: none;
@@ -89,28 +89,27 @@ body {
 }
 
 #section-d div{
-	padding: 200px 200px;
+	padding: 100px 100px;
 }
 
 
 #section-d .box-4, #section-d .box-5, #section-d .box-6{
 	background: #f9f9f9;
 	color: #295D9B;
-	text-color:black;
 }
 
 #section-d .box-4{
-	height: 40px;
+	height: 100px;
 	width: 33%;
 }
 
 #section-d .box-5{
-	height:40px;
+	height:100px;
 	width: 33%;
 }
 
 #section-d .box-6{
-	height:40px;
+	height:100px;
 	width: 33%;
 }
 
