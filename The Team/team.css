@@ -104,17 +104,18 @@ body {
 	height: 100px;
 	width: 33%;
 	padding-right:20px;
-	
+	background-size:cover;
 }
 
 #section-d .box-5{
 	height:100px;
 	width: 33%;
 	padding-right:40px;
-	
+	background-size:cover;
 }
 
 #section-d .box-6{
+	background-size:cover;
 	height:100px;
 	width: 33%;
 	padding-right: 60px;
