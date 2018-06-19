@@ -29,6 +29,7 @@ body{
 	background-size: cover;
 	font-family: 'Arsenal Regular';
 	color: black;
+			margin: 0;
 }
 ul{
 	align-content: center;
