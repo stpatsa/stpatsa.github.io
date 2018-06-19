@@ -79,7 +79,7 @@ body {
 }
 
 #section-d {
-	display: relative;
+	display: flex;
 	text-align: center;
 	overflow: hidden;
 	list-style: none;
@@ -89,8 +89,8 @@ body {
 }
 
 #section-d div{
-	padding:50px 50px;
-	align:center;
+	padding:200px 200px;
+	
 
 }
 
