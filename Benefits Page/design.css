@@ -12,12 +12,6 @@ header {
 	margin-bottom:20px;
 }
 
-nav {
-	width: 960px;
-	height: 60px;
-	float: left;
-	margin-bottom: 20px;
-}
 
 main {
 	width: 680px;
@@ -33,7 +27,7 @@ sidebar {
 	min-height: 700px;
 }
 p{
-	padding: 50px;
+	padding: 100px;
 
 }
 h1{
