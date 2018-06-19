@@ -1,15 +1,14 @@
 h1{
-	padding: 70px;
+	padding: 50px;
 }
 body {	
-	width: 400px;
+	width: 600px;
 	overflow:hidden;
-	margin-right: 100px;
-	margin-left:100px;
+		margin: 0 auto;
 }
 
 header {
-	width: 700px;
+	width: 960px;
 	height: 300px;
 	float: left;
 	margin-bottom:20px;
@@ -23,7 +22,7 @@ nav {
 }
 
 main {
-	width: 400px;
+	width: 680px;
 	overflow: hidden;
 	float: left;
 	min-height: 700px;
@@ -36,6 +35,10 @@ sidebar {
 	min-height: 700px;
 }
 
+p{
+	padding: 100px;
+
+}
 footer {
 	width: 960px;
 	height: 100px;
