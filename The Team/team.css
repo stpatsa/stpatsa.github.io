@@ -10,7 +10,7 @@ body {
 }
 #section-a{
 	padding:20px;
-	background:#DCDCDC;
+	background:white;
 	color:black;
 	text-align:center;
 }
@@ -19,7 +19,7 @@ body {
 
 #section-b{
 	padding: 20px;
-	background:#DCDCDC;
+	background:white;
 	color: black;
 	text-align: center;
 }
