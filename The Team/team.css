@@ -98,27 +98,28 @@ body {
 #section-d .box-4, #section-d .box-5, #section-d .box-6{
 	background: #f9f9f9;
 	color: #295D9B;
+	text-align:center;
 	
 }
 
 #section-d .box-4{
 	height: 50px;
 	width: 33%;
-	
+	text-align:center;
 }
 
 #section-d .box-5{
 	height:50px;
 	width: 33%;
 	background-size:cover;
-
+	text-align:center;
 }
 
 #section-d .box-6{
 	background-size:cover;
 	height:50px;
 	width: 33%;
-	
+	text-align:center;
 }
 
 /*------- Footer ------------*/
