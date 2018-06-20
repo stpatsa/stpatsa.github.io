@@ -15,7 +15,7 @@ navbar {
 		overflow: hidden;
 		position: fixed;
 		width: 100%;
-		padding:0px;
+		top:0px;
 			
 			
 }
@@ -45,7 +45,7 @@ ul li{
 	width:200px;
 	height: 40px;
 	background-color: black;
-	opacity: .5;
+	opacity: .6;
 	line-height: 40px;
 	text-align: center;
 	font-size: 20px;
@@ -55,12 +55,12 @@ ul li{
 /*----The Links Originally Grouped Together----*/
 ul li ul li{
 	float: left;
-	width:200px;
+	width:300px;
 	height: 40px;
 	background-color: black;
-	opacity: .5;
+	opacity: .6;
 	line-height: 40px;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
 	
 }
