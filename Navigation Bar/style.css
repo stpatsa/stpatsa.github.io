@@ -33,6 +33,7 @@ body{
 /*----- Div---*/
 ul{
 	align-content: center;
+	width:100px:
 	margin: 0px;
 	padding: 0px;
 	list-style: none;
@@ -42,7 +43,6 @@ ul{
 /*----All the Links---*/
 ul li{
 	float: left;
-	padding:14px;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
@@ -55,7 +55,7 @@ ul li{
 /*----The Links Originally Grouped Together----*/
 ul li ul li{
 	float: left;
-	padding:14px;
+	
 	height: 40px;
 	background-color: black;
 	opacity: .5;
