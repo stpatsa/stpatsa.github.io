@@ -42,7 +42,7 @@ ul{
 /*----All the Links---*/
 ul li{
 	float: left;
-	
+	padding:14px 16px;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
@@ -55,7 +55,7 @@ ul li{
 /*----The Links Originally Grouped Together----*/
 ul li ul li{
 	float: left;
-	
+	padding:14px 16px;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
