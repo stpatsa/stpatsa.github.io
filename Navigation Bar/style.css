@@ -14,7 +14,7 @@
 navbar {
 		overflow: hidden;
 		position: fixed;
-		width: 90%;
+		width: 100%;
 		padding: 0px;
 		
 		
@@ -42,7 +42,7 @@ ul{
 /*----All the Links---*/
 ul li{
 	float: left;
-	width: 90%;
+	width: relative;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
@@ -55,7 +55,7 @@ ul li{
 /*----The Links Originally Grouped Together----*/
 ul li ul li{
 	float: left;
-	width: 90%;
+	width: relative;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
