@@ -15,7 +15,7 @@ navbar {
 		overflow: hidden;
 		position: fixed;
 		width: 100%;
-		padding: 14px 16px;
+		padding: 14px;
 		
 		
 }
@@ -42,7 +42,7 @@ ul{
 /*----All the Links---*/
 ul li{
 	float: left;
-	padding:14px 16px;
+	padding:14px;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
@@ -55,7 +55,7 @@ ul li{
 /*----The Links Originally Grouped Together----*/
 ul li ul li{
 	float: left;
-	padding:14px 16px;
+	padding:14px;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
@@ -70,7 +70,7 @@ ul li a{
 	text-decoration: none;
 	color: white;
 	display: block;
-	padding: 14px 16px 14px 16px;
+	padding: 14px;
 }
 
 /*----When the mouse hovers over the link for the main links---*/
