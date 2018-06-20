@@ -31,12 +31,16 @@ body{
 	color: black;
 			margin: 0;
 }
+
+/*----- Div---*/
 ul{
 	align-content: center;
 	margin: 0px;
 	padding: 0px;
 	list-style: none;
 }
+
+/*----All the Links---*/
 ul li{
 	float: left;
 	width: 209.5px;
@@ -48,7 +52,7 @@ ul li{
 	font-size: 20px;
 }
 
-
+/*----The Links Originally Grouped Together----*/
 ul li ul li{
 	float: left;
 	width: 300px;
@@ -59,39 +63,27 @@ ul li ul li{
 	text-align: left;
 	font-size: 20px;
 }
+
+/*----The Actual Link---*/
 ul li a{
 	text-decoration: none;
 	color: white;
 	display: block;
 }
 
+/*----When the mouse hovers over the link for the main links---*/
 ul li a:hover{
 	background-color: cadetblue;
 }
 
+/*-----The links that were originally grouped together----*/
 ul li ul li{
 	
 	display: none;
 }
 
+/*----When the mouse hovers over the originally grouped links----*/
 ul li:hover ul li{
 	
 	display: block;
-}
-
-/* Page content */
-.content {
-  padding: 16px;
-}
-
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 60px;
 }
