@@ -13,12 +13,9 @@
 
 navbar {
 		overflow: hidden;
-		position: relative;
-		padding-top: 0;
-		padding-left: 0;
-		padding-right: 0;
-	width: auto;
-	padding: 0px;
+		position: fixed;
+		width: auto;
+		padding: 0px 0px;
 		
 		
 }
@@ -32,15 +29,12 @@ body{
 			margin: 0px;
 }
 
-nav{
-	postition:relative;
-}
 
 /*----- Div---*/
 ul{
 	align-content: center;
 	margin: 0px;
-	padding: 0px;
+	padding: 10px 10px;
 	list-style: none;
 	
 }
