@@ -34,7 +34,7 @@ body{
 ul{
 	align-content: center;
 	margin: 0px;
-	padding: 10px 10px;
+	padding: 0px;
 	list-style: none;
 	
 }
@@ -42,7 +42,7 @@ ul{
 /*----All the Links---*/
 ul li{
 	float: left;
-	width: 209.5px;
+	width: auto;
 	height: 40px;
 	background-color: black;
 	opacity: .5;
@@ -54,12 +54,12 @@ ul li{
 /*----The Links Originally Grouped Together----*/
 ul li ul li{
 	float: left;
-	width: 300px;
+	width: auto;
 	height: 40px;
 	background-color: black;
-	opacity: .6;
+	opacity: .5;
 	line-height: 40px;
-	text-align: left;
+	text-align: center;
 	font-size: 20px;
 }
 
